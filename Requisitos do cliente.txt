@@ -30,3 +30,8 @@ Tabelas:
  >Endereço
 3-Relatório
  >Entrada e saída
+4-Vendas
+ >Status da vendas
+  >Concluída
+  >Em andamento
+  >Cancelada
