@@ -16,3 +16,17 @@ Requisitos:
 5-Sistema de entrada e saída de notas
 
 6-Sistema de cancelamento de notas
+
+Tabelas:
+
+1-Produtos
+ >Categorias
+2-Clientes
+ >CPF
+ >Nome
+ >Email
+ >Data de nascimento
+ >Número de celular]
+ >Endereço
+3-Relatório
+ >Entrada e saída
